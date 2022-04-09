@@ -186,6 +186,11 @@ we took close to 1.4 seconds for all the request to go through. We are taking ab
 ![Pipeline Endpoint created and active](screenshots/22_Pipeline_Rest_endpoint_created.png)
 
 ![Rest endpoint Status](screenshots/23_Rest_Endpoint_Status_Active.png)
+
+![Pipeline Active with Rest Endpoint1](screenshots_2/23_Pipeline_Active.png)
+
+![Pipeline Active with Rest Endpoint2](screenshots_2/23_Pipeline_Active_with_Rest_endpoint.png)
+
 * Run Detail Widget
 ![Run Detail Widget](screenshots/24_RunDetails_Widget.png)
 
