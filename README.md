@@ -139,6 +139,8 @@ docker run -p 9000:8080 swaggerapi/swagger-ui
 
 ![bash_swagger_sh](screenshots/12_bash_swagger_sh.png)
 
+![Docker is Enabled](screenshots_2/12_docker_enabled.png)
+
 * Swagger interactions
 
 ![Swagger Interactions](screenshots/13_Swagger_HTTP_API_model_.png)
